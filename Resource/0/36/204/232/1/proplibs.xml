@@ -1,8 +1,0 @@
-<proplibs>
-  <library name='Terrain1' resource-id='a7d8c1' version='1' />
-  <library name='Passage1' resource-id='a7d8c2' version='1' />
-  <library name='Com Build1' resource-id='a7d8c3' version='1' />
-  <library name='Defense1' resource-id='a7d8c4' version='1' />
-  <library name='Fence' resource-id='a337c' version='1' />
-  <library name='Plants' resource-id='6c356' version='3' />
-</proplibs>
